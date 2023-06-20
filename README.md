@@ -1,2 +1,2 @@
-# lora
-lora / lorawan (UNIR TFM project resources)
+# LoRa / LoRaWAN
+LoRa / LoRaWAN (UNIR TFM project resources)
